@@ -1,0 +1,42 @@
+/* .App {
+  text-align: center;
+} */
+
+body{
+  margin: 0;
+  padding: 0;
+}
+.search{
+  margin-left:30px ;
+  font-weight: bold;
+}
+h1{
+  text-align: center;
+}
+.span1{
+  text-align: start;
+}
+.span2{
+  text-align: center;
+}
+table ,td ,th{
+  border: 2px solid black;
+  /* border-collapse: collapse; */
+}
+#table1{
+  border-collapse: collapse;
+  width: 100%;
+  background-color: blue;
+  color: white;
+}
+.itemname,.itemtype,.itemcountry{
+  background-color: grey;
+  color: black;
+}
+.filteroptions{
+margin-left: 1000px;
+}
+.filtertype{
+  margin-left: 1106px;
+  font-weight: bold;
+}

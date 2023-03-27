@@ -1,0 +1,115 @@
+[
+    {
+        "id":1,
+        "name":"Tesla",
+        "country":"UNITEDSTATES(USA)",
+        "type":"Passenger Car"
+
+    },
+    {
+        "id":2,
+        "name":"Astor Martin",
+        "country":"UNITEDKingdom(UK)",
+        "type":"Passenger Car"
+
+    },
+    {
+        "id":3,
+        "name":"Maserati",
+        "country":"UNITEDSTATES(USA)",
+        "type":"Passenger Car"
+
+    },
+
+    {
+        "id":4,
+        "name":"Buell",
+        "country":"UNITEDSTATES(USA)",
+        "type":"Motor cycle"
+
+    },
+    {
+        "id":5,
+        "name":"BMW",
+        "country":"Germany",
+        "type":"Passenger Car"
+
+    },
+
+    {
+        "id":6,
+        "name":"BMW",
+        "country":"UNITEDSTATES(USA)",
+        "type":"Passenger Car"
+
+    },
+    {
+        "id":7,
+        "name":"Bugati",
+        "country":"France",
+        "type":"Passenger Car"
+
+    },
+
+    {
+        "id":8,
+        "name":"Hombit",
+        "country":"UNITEDSTATES(USA)",
+        "type":"Trailer"
+
+    },
+    {
+        "id":9,
+        "name":"ACG",
+        "country":"UNITEDSTATES(USA)",
+        "type":"Low speed vehicle (LSV)"
+
+
+    },
+    {
+        "id":10,
+        "name":"Ford",
+        "country":"UNITEDSTATES(USA)",
+        "type":"Passenger Car"
+
+    },
+    {
+        "id":11,
+        "name":"Kia Carens",
+        "country":"INDIA(IND)",
+        "type":"Multipurpose Passenger vehicle (MPV)"
+
+    },
+
+    {
+        "id":12,
+        "name":"AshokLeyland",
+        "country":"INDIA(IND)",
+        "type":"Truck"
+
+    },
+    {
+        "id":13,
+        "name":"Tata",
+        "country":"INDIA(IND)",
+        "type":"Bus"
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
